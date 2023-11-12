@@ -1,4 +1,4 @@
-# XiangZhangPE-QU-rmcEE533-projects
+# QU-rmcEE533-projects
 Queen's University RM course EE533 VHDL Course Projects
 
 Digital Control Architecture with TightVoltage Regulation-VHDL Implementation \
